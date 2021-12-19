@@ -1,0 +1,11 @@
+{
+  "ExtnName": {
+    "message": "必應（中國）搜尋"
+  },
+  "ExtnDescription": {
+    "message": "將搜尋引擎設定為中國必應網(www4)使用最小許可權，不修改主頁。"
+  },
+  "Label": {
+    "message": "必應（中國）"
+  }
+}

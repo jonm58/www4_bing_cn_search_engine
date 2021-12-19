@@ -1,0 +1,11 @@
+{
+  "ExtnName": {
+    "message": "必应（中国）搜索"
+  },
+  "ExtnDescription": {
+    "message": "将搜索引擎设置为中国必应网(www4)使用最小权限，不修改主页。"
+  },
+  "Label": {
+    "message": "必应（中国）"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ExtnName": {
+    "message": "Bing (CN) Search"
+  },
+  "ExtnDescription": {
+    "message": "Set your search engine to www4.bing.com using minimal permissions and without modifying your homepage."
+  },
+  "Label": {
+    "message": "Bing (CN)"
+  }
+}
